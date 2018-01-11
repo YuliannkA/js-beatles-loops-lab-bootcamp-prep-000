@@ -14,5 +14,4 @@ function johnLennonFacts(facts) {
     }
   }
   return newfacts
-  
 }
