@@ -20,7 +20,7 @@ function iLoveTheBeatles(n) {
   var array = [];
   
   do {
-    array.push()
+    array.push("I love the Beatles!")
   } while ( array.length > 0 && maybeTrue());
   return array
 }
